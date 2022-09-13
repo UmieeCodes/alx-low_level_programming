@@ -4,16 +4,16 @@
  * @n: is the int that will be used for the argument of the function
  * Return: 0
  */
-int_print_sign(int n)
+int print_sign(int n)
 {
 	if (n > 0)
-	{
+	i{
 	_putchar('+');
 	return (1);
 }
 	else if (n < 0)
 	{
-	_putchar('-')
+	_putchar('-');
 	return (-1);
 	}
 	else
