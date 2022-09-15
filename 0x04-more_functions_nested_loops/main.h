@@ -1,6 +1,12 @@
 #ifndef _MAIN_H_
 #define _MAIN_H_
 
+/**
+ * main - header file for protoypes
+ * void protoypes (void)
+ * int prototpyes (int) 
+ */
+
 int _isupper(int c);
 int _isdigit(int c);
 int mul(int a, int b);
